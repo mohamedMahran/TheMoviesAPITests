@@ -5,6 +5,11 @@
 
 Run `npm install` to install neccessary dependencies.
 
+## Project structure 
+
+![image](https://user-images.githubusercontent.com/20645322/153790496-f2ae80fb-d24a-49be-987c-f24e2575ab7e.png)
+
+
 ## Running Tests
 
 Run following command to start the test run.
