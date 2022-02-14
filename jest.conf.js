@@ -6,5 +6,6 @@ module.exports = {
       "pageTitle": "Test Report"
     }]
   ]
+  
 };
 

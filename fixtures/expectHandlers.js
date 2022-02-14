@@ -10,3 +10,4 @@ frisby.addExpectHandler("fieldsRequired", (response, expectedFields) => {
     expect(response.json.errors).toContain(`${field} must be provided`);
   }
 });
+
